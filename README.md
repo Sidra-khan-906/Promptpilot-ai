@@ -131,6 +131,10 @@ Explain the answer clearly for a student.
 
 ![Prompt Library](screenshots/Screenshot%202026-07-22%20202623.png)
 
+## Prompt Doctor
+
+![Prompt Doctor](screenshots/Screenshot%202026-07-23%20193339.png)
+
 ---
 
 # 🚀 Running the Project
