@@ -115,23 +115,21 @@ Explain the answer clearly for a student.
 
 # 📸 Screenshots
 
-> Add at least 4 screenshots here.
+## Landing Page
 
-### Landing Page
+![Landing Page](screenshots/Screenshot%202026-07-22%20202810.png)
 
-(Add Screenshot)
+## Login Page
 
-### Dashboard
+![Login Page](screenshots/Screenshot%202026-07-22%20202601.png)
 
-(Add Screenshot)
+## Dashboard
 
-### Prompt Doctor
+![Dashboard](screenshots/Screenshot%202026-07-22%20202534.png)
 
-(Add Screenshot)
+## Prompt Library
 
-### AI Tutor
-
-(Add Screenshot)
+![Prompt Library](screenshots/Screenshot%202026-07-22%20202623.png)
 
 ---
 
